@@ -1,6 +1,6 @@
-[logo](https://raw.githubusercontent.com/MA-dev-official/MA-dev-official/refs/heads/main/Black%20Trendy%20Gamer%20Youtube%20Banner_20250207_183018_0000.pngng)
+[logo](https://www.google.com/search?client=ms-android-verizon&sca_esv=6c5b8bb7f034a1cd&sxsrf=AHTn8zpEKXx9-xU3eINeVhLG8MtGNReS2w:1738939087589&q=github+banner&udm=2&fbs=ABzOT_CWdhQLP1FcmU5B0fn3xuWpA-dk4wpBWOGsoR7DG5zJBkzPWUS0OtApxR2914vrjk7XZXfnfKsaRZouQANLhmphXtkuAPjXaTFep1ypWY-idRvgMvh7xk3DMoMmaMqG3e_6vl0Wcy6OyuUoIF_x_pXRa8NhVEZTZn-XWJ-Mpu_PajA90CQ&sa=X&ved=2ahUKEwju9uf05LGLAxVv3gIHHa86FvgQtKgLegQIDhAB&biw=412&bih=776&dpr=2.63#imgrc=vXfRl9iQU63m3M&imgdii=AkbtYKqoRvcCeM)
   <h1 align="center">Hi 👋, I'm Muhammad Ahmad</h1>
-<h3 align="center">A passionate WEB developer from India</h3>
+<h3 align="center">A passionate WEB developer from Pakistan 🇵🇰 </h3>
 <Img align="right" alt="coding" width="400" src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/c83c004e-1370-4756-88e5-4071de797088/dgdq8br-09cc7ad6-a021-47a5-b0e0-917b12b0f7a7.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2M4M2MwMDRlLTEzNzAtNDc1Ni04OGU1LTQwNzFkZTc5NzA4OFwvZGdkcThici0wOWNjN2FkNi1hMDIxLTQ3YTUtYjBlMC05MTdiMTJiMGY3YTcuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.tqRMtE-b2QiI2nnefNxSDMJvZCcYqFmq2ccg_Xfzqb8"></Img>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ma-dev-officioal&label=Profile%20views&color=0e75b6&style=flat" alt="ma-dev-officioal" /> </p>
 
